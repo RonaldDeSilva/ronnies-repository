@@ -1,3 +1,2 @@
 # ronnies-repository
-#Literally Nothing
-#Frick
+Literally Everything
